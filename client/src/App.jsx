@@ -18,6 +18,8 @@ function App() {
         <div>
           <h1>Get started</h1>
           <div className="font-bold ">Ninja</div>
+          <div className="bg-red-800">Hero</div>
+          <div className="">/</div>
           <p>
             Edit <code>src/App.jsx</code> and save to test <code>HMR</code>
           </p>
