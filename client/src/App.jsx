@@ -41,6 +41,8 @@ function App() {
             <use href="/icons.svg#documentation-icon"></use>
           </svg>
           <h2>Documentation</h2>
+          <div className='bg'></div>
+          <div className=''></div>
           <p>Your questions, answered</p>
           <ul>
             <li>
